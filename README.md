@@ -1,4 +1,6 @@
 # NewsPortal-SoftwareDevelopment
+![image](https://user-images.githubusercontent.com/84695167/235346417-d43b6180-6ab3-4232-a2ed-075dcc624db8.png)
+
 
 ## How to Run or Get Started 
  1. Setup a virtual environment inside your working directory through terminal
