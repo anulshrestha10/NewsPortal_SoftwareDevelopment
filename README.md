@@ -8,4 +8,4 @@
 > 4. pip install requests
 
 ### To run the server:
-> python manage.py runserver
+- python manage.py runserver
