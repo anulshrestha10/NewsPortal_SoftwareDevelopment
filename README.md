@@ -18,4 +18,6 @@ virtualenv 'name of directory you want to name'
 - Student Id: 210249
 - CU ID: 11782900
 
-### Youtube Link: 
+### Youtube Link: https://youtu.be/xGyvY5vDkpg
+
+
