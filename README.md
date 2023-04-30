@@ -9,3 +9,9 @@ virtualenv 'name of directory you want to name'
 
 ### To run the server:
 - python manage.py runserver
+
+## My details:
+- Name: Anul Shrestha 
+- Batch: C30`B'
+- Student Id: 210249
+- CU ID: 11782900
